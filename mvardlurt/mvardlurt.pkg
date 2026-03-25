@@ -1,4 +1,8 @@
-D 'DEA': Data envelopment analysis
+D 'mvardlurt': Multivariate Autoregressive Distributed Lag (ARDL) Unit Root Test with Bootstrap Critical Values Use mvardlurt With STATA 19
 D
-F dea.ado
-F dea.sthlp
+F _mvardlurt_bootstrap.ado
+F _mvardlurt_diagtest.ado
+F _mvardlurt_graph.ado
+F _mvardlurt_stars.ado
+F mvardlurt.ado
+F mvardlurt.sthlp
